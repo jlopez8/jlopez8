@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 
 **Jaime A. Lopez-Merizalde, Ph.D.**
 
-**Skills** 
+**Skills**  
+
 Python, C, ANSYS Fluent, Computational Fluid Dynamics (CFD), scikit-learn, APDL, SQL, Jupyter, Snowflake (platform)
 
-**Professional Summary**
+**Professional Summary**  
+
 STEM professional with 5+ years of experience across data science, software engineering, and applied mathematics.
 Proficient in using a variety of software tools to derive data insights and perform scientific computations. This includes
 leveraging Python, C, SQL, etc. Comfortable navigating technical challenges and communicating relevant nuances to a
