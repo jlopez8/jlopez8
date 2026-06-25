@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Jaime A. Lopez-Merizalde, Ph.D.
+
 Skills: Python, C, ANSYS Fluent, Computational Fluid Dynamics (CFD), scikit-learn, APDL, SQL, Jupyter, Snowflake (platform)
