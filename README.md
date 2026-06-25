@@ -34,4 +34,4 @@ Python, C, ANSYS Fluent, Computational Fluid Dynamics (CFD), scikit-learn, APDL,
 • Cross-functional Collaboration
 
 **Professional Profile**  
-- [LinkedIn](linkedin.com/in/jaimemeriz/ "Visit LinkedIn").
+- [LinkedIn](linkedin.com/in/jaimemeriz/ "Visit LinkedIn")
